@@ -1,7 +1,7 @@
- 👋 Hi, I’m @Champath
+👋 Hi, I’m @Champath
  
- 👀 I’m interested in Web Development
+👀 I’m interested in Web Development
  
- Take a look at this first webpage created by me 👇🏻
+Take a look at this first webpage created by me 👇🏻
 
- https://champath.github.io/Responsive-Photography-Website/
+https://champath.github.io/Responsive-Photography-Website/
